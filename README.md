@@ -1,2 +1,1 @@
-# Proyecto-C63V2
-APP DE DICCIONARIO: VERSIÓN EN LÍNEA
+# Proyecto C63
